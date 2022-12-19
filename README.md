@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Donya-Vafanejad
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front-End Development projects.
+- 👀 I’m interested in Data Visualization 
 - 📫 How to reach me donyaa.vafa@gmail.com
 
 <!---
